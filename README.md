@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Dhvanit and I'm a MERN Stack dev, from India. see my work [here](https://dhvanitmonpara.vercel.app).</p>
+<p align="left">My name is Dhvanit and I'm a MERN Stack dev, from India. see my work <a target="blank" href="https://dhvanitmonpara.vercel.app">here</a>.</p>
 
 ###
 

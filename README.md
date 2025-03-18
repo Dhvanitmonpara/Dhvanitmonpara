@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023.<br>📚 I'm currently learning how to solve real life problems.<br>🎯 Goals: Create a software solution for the real life problem.<br>🎲 Fun fact: "The best error message is the one that never shows up"</p>
+<p align="left">✨ Creating bugs since 2023.<br>📚 I'm currentlybuilding Linkaroo.<br>🎯 Goals: Create a software solution for the real life problem.<br>🎲 Fun fact: "The best error message is the one that never shows up"</p>
 
 ###
 

@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Dhvanit and I'm a MERN Stack dev, from India. see my work <a target="blank" href="https://dhvanitmonpara.vercel.app">here</a>.</p>
+<p align="left">My name is Dhvanit and I'm a MERN Stack GenAI dev, from India. see my work <a target="blank" href="https://dhvanitmonpara.in">here</a>.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023.<br>📚 I'm currently building Linkaroo.<br>🎯 Goals: Create a software solution for the real life problem.<br>🎲 Fun fact: "The best error message is the one that never shows up"</p>
+<p align="left">✨ Creating bugs since 2023.<br>📚 I'm currently figuring out stuff. <br>🎯 Goals: Create a software solution for the real life problem.<br>🎲 Fun fact: "The best error message is the one that never shows up"</p>
 
 ###
 
